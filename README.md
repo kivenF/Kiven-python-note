@@ -1,4 +1,13 @@
 # 目录
+## [20.03.01](./Note/note20.03.01.md)
+### 内容：
+* 1.快速交换法和，星号解包法
+* 2.深入理解 * 和**
+* 3.TypeError: not all arguments converted during string formatting
+* 1.deque-一个可以设置长度的队列（列表）
+* 2.heapq
+* 1.实现优先级队列
+* 2.zip()
 ## [20.03.02](./Note/note20.03.02.md)
 ### 内容：
 * 1.deque-一个可以设置长度的队列（列表）
@@ -31,3 +40,9 @@
 * 2.re.split()
 * 3.在字符串的开头或结尾做文本匹配
 * 4.re的一些方法
+## [20.03.12](./Note/note20.03.12.md)
+### 内容：
+* 1.encode()和decode()
+* 2.random模块
+* 3.str.replace(a,b,n)
+* 4.re.sub()
