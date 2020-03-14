@@ -84,7 +84,7 @@ for date, items in groupby(rows, key=lambda a: a['date']):
   {'address': '1039 W GRANVILLE', 'date': '07/04/2012'}
 ```
 
-### 3. defaultdict()创建一键多值数组
+### 3.defaultdict()创建一键多值数组
 
 ```python
 from collections import defaultdict

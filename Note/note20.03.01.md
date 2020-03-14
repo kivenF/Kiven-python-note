@@ -202,8 +202,6 @@
 
 <u>注意：没有**解包的用法</u>
 
-
-
 ### 3.TypeError: not all arguments converted during string formatting
 
 **实例**：
